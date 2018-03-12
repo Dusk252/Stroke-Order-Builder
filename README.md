@@ -3,10 +3,13 @@
 Kanji Stroke Order is a simple command line application to automate generation of stroke order import files for Anki flashcards with the purpose of learning to write kanji.
 It takes as input a tsv containing vocabulary entries and optionally any text file containing kanji. It will create a card for every unique kanji found in the kanji file, or, if one is not provided, the word column of the vocabulary file.
 It uses [kanjidic2](http://www.edrdg.org/kanjidic/kanjd2index.html) as the information source. The card format is as can be seen below.
+
 Front:
+
 ![example_1](https://my.mixtape.moe/hdoptf.png)
 
 Back:
+
 ![example_2](https://my.mixtape.moe/pdqocc.png) ![example_3](https://my.mixtape.moe/kejwox.png)
 
 The import file consists of the following fields in this order:
