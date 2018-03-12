@@ -6,11 +6,11 @@ It uses [kanjidic2](http://www.edrdg.org/kanjidic/kanjd2index.html) as the infor
 
 Front:
 
-![example_1](https://my.mixtape.moe/hdoptf.png)
+![example_1](https://my.mixtape.moe/mnlaxm.png)
 
 Back:
 
-![example_2](https://my.mixtape.moe/pdqocc.png) ![example_3](https://my.mixtape.moe/kejwox.png)
+![example_2](https://my.mixtape.moe/amknfv.png) ![example_3](https://my.mixtape.moe/tzlvwr.png)
 
 The import file consists of the following fields in this order:
   - Kanji
