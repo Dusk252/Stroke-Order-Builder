@@ -50,15 +50,15 @@ javac -cp  ..\lib\*;. main.java
 java -cp ..\lib\*;. main -v <filepath> [<word-column> <reading-column>] [-k <filepath> [<column>]] -o <filepath>
 ```
 
-## Built With
+### Built With
 
 * [Apache Commons CLI](http://commons.apache.org/proper/commons-cli/) - Used to parse the commands.
 
-## Authors
+### Authors
 
-* **Dusk252**
+* Dusk252
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
