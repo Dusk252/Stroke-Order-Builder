@@ -5,6 +5,7 @@ It takes as input a tsv containing vocabulary entries and optionally any text fi
 It uses [kanjidic2](http://www.edrdg.org/kanjidic/kanjd2index.html) as the information source. The card format is as can be seen below.
 Front:
 ![example_1](https://my.mixtape.moe/hdoptf.png)
+
 Back:
 ![example_2](https://my.mixtape.moe/pdqocc.png) ![example_3](https://my.mixtape.moe/kejwox.png)
 
