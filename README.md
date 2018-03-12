@@ -37,7 +37,7 @@ The import file consists of the following fields in this order:
 
 2. Extract the colorize-kanji-spectrum folder into your collection.media folder. This folder should be localized at C:\Users\[your name]\AppData\Roaming\Anki2\[anki profile name]\collection.media\
 
-3. Download the jar file and run it:
+3. Download the [jar file](out/artifacts/stroke_order_builder_jar) and run it:
 ```
 java -jar stroke-order-builder.jar -v <filepath> [<word-column> <reading-column>] [-k <filepath> [<column>]] -o <filepath>
 
